@@ -1,4 +1,4 @@
-This is a tutorial for git and github
+## This is a tutorial for git and github
 
 
 …or create a new repository on the command line
